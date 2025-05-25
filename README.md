@@ -6,7 +6,7 @@
 
 # 💫 Current Work:
 ClausePilot is a modular document intelligence system that extracts, classifies, and interprets clauses from complex documents such as insurance policies, loan agreements, and legal contracts — all personalized to the user's context.)<br/>
-![ClausePilot](https://github.com/Motupallisailohith/Full-Stack/tree/main/ClausePilot)
+- 🔗 [ClausePilot](https://github.com/Motupallisailohith/Full-Stack/tree/main/ClausePilot)
 
 ## 🧩 Problem Solving Contributions
 I actively engage in solving algorithmic and data structure problems to sharpen my technical skills. Check out my progress:
