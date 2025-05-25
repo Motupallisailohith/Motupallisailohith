@@ -5,8 +5,12 @@
 🏫 A graduate student @ Georgia State University<br>💻 Ex SWE @ Bosch<br>🛜 Ex SWE Intern @ DevRabbit Technologies upholding @ Oportun<br>🔍A Graduate Research Assistant @ Georgia State University
 
 # 💫 Current Work:
-ClausePilot is a modular document intelligence system that extracts, classifies, and interprets clauses from complex documents such as insurance policies, loan agreements, and legal contracts — all personalized to the user's context.
+ClausePilot is a modular document intelligence system that extracts, classifies, and interprets clauses from complex documents such as insurance policies, loan agreements, and legal contracts — all personalized to the user's context.)<br/>
 ![ClausePilot](https://github.com/Motupallisailohith/Full-Stack/tree/main/ClausePilot)
+
+## 🧩 Problem Solving Contributions
+I actively engage in solving algorithmic and data structure problems to sharpen my technical skills. Check out my progress:
+- 🔗 [LeetCode Profile](https://leetcode.com/sailohith1439/)
 
 
 ## 🌐 Socials:
@@ -19,3 +23,7 @@ ClausePilot is a modular document intelligence system that extracts, classifies,
 ![](https://nirzak-streak-stats.vercel.app/?user=Motupallisailohith&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Motupallisailohith&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+---
+[![](https://visitcount.itsvg.in/api?id=Motupallisailohith&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
