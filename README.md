@@ -1,3 +1,6 @@
+Hi, I'm Sai Lohith Motupalli👋
+👨‍💻 Software Engineer
+
 # 💫 About Me:
 🏫 A graduate student @ Georgia State University<br>💻 Ex SWE @ Bosch<br>🛜 Ex SWE Intern @ DevRabbit Technologies upholding @ Oportun<br>🔍A Graduate Research Assistant @ Georgia State University
 
