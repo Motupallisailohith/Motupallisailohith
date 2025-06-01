@@ -2,7 +2,7 @@
 👨‍💻 Software Engineer | A google cloud ready facilitator
 
 # 💫 About Me:
-🏫 A graduate student @ Georgia State University<br>💻 Ex SWE @ Bosch<br>🛜 Ex SWE Intern @ DevRabbit Technologies upholding @ Oportun<br>🔍A Graduate Research Assistant @ Georgia State University
+🏫 A graduate student @ Georgia State University<br>💻 Ex SWE @ Bosch<br>🛜 Ex SWE Intern @ DevRabbit upholding @ Tekion<br>🔍A Graduate Research Assistant @ Georgia State University
 
 # 💫 Current Work:
 ClausePilot is a modular document intelligence system that extracts, classifies, and interprets clauses from complex documents such as insurance policies, loan agreements, and legal contracts — all personalized to the user's context.)<br/>
