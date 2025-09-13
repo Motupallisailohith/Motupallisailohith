@@ -1,5 +1,5 @@
 # Hi, I'm Sai Lohith Motupalli👋
-👨‍💻 Software Engineer | A google cloud ready facilitator
+👨‍💻 Software Engineer
 
 # 💫 About Me:
 🏫 A graduate student @ Georgia State University<br>💻 Ex SWE @ Bosch<br>🛜 Ex SWE Intern @ DevRabbit <br>🔍A Graduate Research Assistant @ Georgia State University
